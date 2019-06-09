@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{310:function(t,p,s){"use strict";s.r(p),p.default=[{title:"【四楼趣事儿】神兽来袭",path:"/posts/books.html",strippedContent:"神兽羊驼来袭，欢迎大家来公司四楼餐厅参观喂食！"},{title:"【企业动态】阳光保险合作项目",path:"/posts/news.html",strippedContent:"公司与阳光保险合作的项目顺利进行，阳光保险公司负责人来我公司进行参观。"}]}}]);
